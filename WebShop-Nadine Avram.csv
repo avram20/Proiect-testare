@@ -1,0 +1,66 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies)
+1203930795503832,2023-02-08,2023-03-19,2023-03-19,Test Monitoring and Control,Done,bogdan.barbusiu@itschool.ro,bogdan.barbusiu@itschool.ro,,,,,WebShop,,,
+1204091105035840,2023-03-01,2023-03-19,2023-03-19,sa nu uiti la final sa atasezi documentul cu test planul completat,,,,,,,,,Test Monitoring and Control,,
+1204091105035844,2023-03-01,2023-03-14,2023-03-14,in test design ar fi bine sa te gandesti si la niste teste(scenarii) facute doar de tine - cum am dat exemplu acel test cu adaugatul unui produs iar dupa logout - login sa iti ramana produsele din cos salvate,,,,,,,,,Test Monitoring and Control,,
+1204091105035846,2023-03-01,2023-03-12,2023-03-12,prioritatile testelor ar trebui sa fie diferite (ex: u test in care sortezi produsele este mai putin important decat un test cu adaugatul produselor in cos),,,,,,,,,Test Monitoring and Control,,
+1204091105035848,2023-03-01,2023-03-12,2023-03-12,test implementation - col.oana titlu-test case id trebuie sa aiba un nume pt fiecare test care sa fie destul de descriptiv - sa intelegi ce face test case ul respectiv,,,,,,,,,Test Monitoring and Control,,
+1203930795503830,2023-02-08,2023-03-19,2023-03-19,Test Closure Activities,Done,,,,,,,WebShop,,,
+1204210409425933,2023-03-19,,2023-03-19,"A fost destul de dificil sa cream testele fara a vedea aplicatia, personal mi-am imaginat altfel testele",,,,,,,,,Test Closure Activities,,
+1204210409425934,2023-03-19,,2023-03-19,"Implementarea proiectului si cerintelor a fost cum m-am asteptat, am avut timp suficient intre task-uri, am avut suport la fiecare pas",,,,,,,,,Test Closure Activities,,
+1204210409425938,2023-03-19,,2023-03-19,"Mi-a placut ca am facut test design impreuna, astfel pe viitor din punct de vedere practic stim care este inceputul unui proiect pe parte de teste",,,,,,,,,Test Closure Activities,,
+1203930795503824,2023-02-08,2023-03-19,2023-03-19,Test Estimation,Done,,,,,,,WebShop,,,
+1203978862895252,2023-02-15,,2023-02-15,Test Plannig - estimated: 1 h / Actual - 0.5h,,,,,,,,,Test Estimation,,
+1203978862895254,2023-02-15,,2023-03-01,Requirments analysis - estimated: 1 h/ actual: 1 h,,,,,,,,,Test Estimation,,
+1203978862895256,2023-02-15,,2023-03-01,Test design estimated: 2h /Actual 2h min,,,,,,,,,Test Estimation,,
+1203978862895258,2023-02-15,,2023-03-11,Test implementation estimated 3h /Actual 2h 30 min,,,,,,,,,Test Estimation,,
+1203978862895259,2023-02-15,,2023-03-11,Test execution estimated 3h/ actual 2h 30 min,,,,,,,,,Test Estimation,,
+1203978862895260,2023-02-15,,2023-03-19,Test closure activities estimated 3h / 1.5 h actual,,,,,,,,,Test Estimation,,
+1203930795503828,2023-02-08,2023-03-14,2023-03-19,Test Execution,Done,,,,,,,WebShop,,,
+1203930795503826,2023-02-08,2023-03-01,2023-03-01,Test Implementation,Done,,,,,,,WebShop,,,
+1203930795503822,2023-02-08,2023-03-01,2023-03-01,Test Design,Done,,,,,,"Formular login
+    se introduc user si parola corecta apoi apasam buton login
+    User corect si parola invalida apoi apasam buton login 
+    User corect si camp parola gol apoi apasam buton login
+
+Pagina de produse
+    verificare lista produse
+    detalii produs in produs individual (zoom)
+    testarea butonului back din detalii produs
+
+Buton de fliltru
+    sortare lista nume (A to Z)
+    sortare lista nume (Z to A)
+    sortare lista pret (low to high)
+    sortare lista pret (high to low)
+
+Afisarea produselor
+    testare adaugare un produs in cos
+    adaugare toate (6) produsele in cos
+
+Cosul de cumparaturi 
+    testare buton remove product list (main page)
+    testare buton remove din pagina cosului de cumparaturi
+    testare buton continue shopping
+    verificare detalii produse din cosul de cumparaturi
+    testare buton de  ""checkout"" produse in cos
+
+Checkout
+    testare ""checkout"" cu date corecte client
+    testare ""checkout"" cu dtae incomplete client
+    testare buton continue din pagina de checkout
+    testare buton cancel din pagina de checkout
+
+Overview
+    testare buton finish din overview
+    testare buton cancel
+
+Finalizare comanda
+    testare buton ""back to home""
+
+",WebShop,,,
+1203930793167316,2023-02-08,2023-02-08,2023-03-19,Test Planning,Done,,,,,,,WebShop,,,
+1203930793167318,2023-02-08,2023-02-26,2023-02-26,Requirements analysis,Done,,,,,,,WebShop,,,
+1204158854171951,2023-03-11,2023-03-11,2023-03-11,Bug report locked_out_user,Bugs,,,,,,,WebShop,,,
+1204158854171955,2023-03-11,2023-03-14,2023-03-14,Bug report problem_user,Bugs,,,,,,,WebShop,,,
+1204160271535720,2023-03-12,2023-03-14,2023-03-14,Bug report performance_glitch_user,Bugs,,,,,,,WebShop,,,
+1204178188282364,2023-03-14,2023-03-14,2023-03-19,Bug report Standard user,Bugs,,,,,,,WebShop,,,
